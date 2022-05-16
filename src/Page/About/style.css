@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;1,100;1,400;1,500;1,600;1,700&display=swap');
+
+.body_about{
+    background-image: url("../../assets/image/bg.jpg");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.content_about{
+    padding-top: 34px;
+}
+
+.content_about .image{
+    width: 475px;
+    height: 700px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.header_about{
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+.desc_about{
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+
+.linePicture{
+    margin-bottom: 20px;
+}
+
+.about_gallery{
+    padding-top: 34px;
+    margin: auto;
+}
+
+.about_gallery h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+img{
+    display: block;
+    cursor:pointer;
+}
+
+.about_gallery .selected{
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+
+}
+
+.gallery{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 40px;
+}
+
+.gallery img{
+    width: 300px;
+    height: 200px;
+    margin: 5px 0;
+}

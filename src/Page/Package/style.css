@@ -1,0 +1,22 @@
+.body_service{
+    background-image: url("../../assets/image/bg.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.card_packet {
+    padding-top: 34px;
+}
+
+.button_add{
+    margin-bottom: 28px;
+    align-content: space-between;
+    display: block;
+}
+.button_delete{
+    margin-bottom: 28px;
+    align-content: space-between;
+    display: block;
+}
+

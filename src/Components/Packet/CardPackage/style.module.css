@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;1,100;1,400;1,500;1,600;1,700&display=swap');
+
+.card {
+    width: 20rem;
+    background-color: #FAF3F3;
+    font-family: 'Poppins', sans-serif;
+}
+
+.package{
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 36px;
+    text-align: center;
+}
+
+.category{
+    text-align: center !important;
+    font-size: 15px;
+    color: #3A3845;
+}
+
+.harga{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center !important;
+    color: #3A3845;
+}
+
+.place{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.benefit{
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: left;
+    text-align: center !important;
+}
+
+
+.button{
+    padding: 10px;
+}

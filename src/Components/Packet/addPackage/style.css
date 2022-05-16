@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;1,100;1,400;1,500;1,600;1,700&display=swap');
+
+.bg{
+    background-image: url("../../../assets/image/bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.form_input{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form_input label{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    display: block;
+}
+
+.form_input input, .form_input select{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+
+.form_input .button{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    padding: 5px;
+}
+
+
+.form_checkbox{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form_checkbox label {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    display: block;
+}
+
+.form_checkbox ul li{
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+    list-style: none;
+}
+
+.form_checkbox input{
+    margin: 5px;
+}

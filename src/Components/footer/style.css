@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;1,100;1,400;1,500;1,600;1,700&display=swap');
+.body_footer{
+    background-color: black;
+    color: white;
+}
+
+.footer1{
+    margin: 20px auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+
+.footer1 p{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+.logo_footer{
+    margin-top: 30px;
+    width: 200px;
+    height: 60px;
+}
+
+.footer2{
+    margin: 0;
+    margin-top: 20px !important;
+}
+
+.footer2 h4{
+    padding-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+}
+
+.footer2 ul{
+    padding: 0;
+}
+
+.feature ul a{
+    color: white !important;
+}
+
+.footer3{
+    margin-top: 20px !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer3 p{
+    font-size: 18px;
+}
+
+.footer4{
+    margin-top: 20px !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer4 p{
+    font-size: 18px;
+}
